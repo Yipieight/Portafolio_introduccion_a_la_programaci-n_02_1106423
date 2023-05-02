@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\instagram\instagram\bin\Debug\instagram.exe.config
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\instagram\instagram\bin\Debug\instagram.exe
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\instagram\instagram\bin\Debug\instagram.pdb
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\instagram\instagram\obj\Debug\instagram.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\instagram\instagram\obj\Debug\instagram.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\instagram\instagram\obj\Debug\instagram.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\instagram\instagram\obj\Debug\instagram.exe
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\instagram\instagram\obj\Debug\instagram.pdb

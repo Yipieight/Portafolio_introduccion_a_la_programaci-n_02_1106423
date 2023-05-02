@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\Ejemplos 28022023\Ejemplos 28022023\bin\Debug\Ejemplos 28022023.exe.config
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\Ejemplos 28022023\Ejemplos 28022023\bin\Debug\Ejemplos 28022023.exe
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\Ejemplos 28022023\Ejemplos 28022023\bin\Debug\Ejemplos 28022023.pdb
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\Ejemplos 28022023\Ejemplos 28022023\obj\Debug\Ejemplos 28022023.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\Ejemplos 28022023\Ejemplos 28022023\obj\Debug\Ejemplos 28022023.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\Ejemplos 28022023\Ejemplos 28022023\obj\Debug\Ejemplos 28022023.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\Ejemplos 28022023\Ejemplos 28022023\obj\Debug\Ejemplos 28022023.exe
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\Ejemplos 28022023\Ejemplos 28022023\obj\Debug\Ejemplos 28022023.pdb

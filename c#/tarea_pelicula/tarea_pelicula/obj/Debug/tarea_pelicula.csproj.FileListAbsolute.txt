@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\tarea_pelicula\tarea_pelicula\bin\Debug\tarea_pelicula.exe.config
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\tarea_pelicula\tarea_pelicula\bin\Debug\tarea_pelicula.exe
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\tarea_pelicula\tarea_pelicula\bin\Debug\tarea_pelicula.pdb
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\tarea_pelicula\tarea_pelicula\obj\Debug\tarea_pelicula.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\tarea_pelicula\tarea_pelicula\obj\Debug\tarea_pelicula.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\tarea_pelicula\tarea_pelicula\obj\Debug\tarea_pelicula.exe
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\tarea_pelicula\tarea_pelicula\obj\Debug\tarea_pelicula.pdb

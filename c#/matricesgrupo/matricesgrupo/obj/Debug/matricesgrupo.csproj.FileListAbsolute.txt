@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\matricesgrupo\matricesgrupo\bin\Debug\matricesgrupo.exe.config
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\matricesgrupo\matricesgrupo\bin\Debug\matricesgrupo.exe
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\matricesgrupo\matricesgrupo\bin\Debug\matricesgrupo.pdb
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\matricesgrupo\matricesgrupo\obj\Debug\matricesgrupo.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\matricesgrupo\matricesgrupo\obj\Debug\matricesgrupo.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\matricesgrupo\matricesgrupo\obj\Debug\matricesgrupo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\matricesgrupo\matricesgrupo\obj\Debug\matricesgrupo.exe
+C:\Users\DELL\Documents\GitHub\introducci-n_a_pro_1106423_pc\matricesgrupo\matricesgrupo\obj\Debug\matricesgrupo.pdb

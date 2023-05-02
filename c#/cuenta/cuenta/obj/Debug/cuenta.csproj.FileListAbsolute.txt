@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\cuenta\cuenta\bin\Debug\cuenta.exe.config
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\cuenta\cuenta\bin\Debug\cuenta.exe
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\cuenta\cuenta\bin\Debug\cuenta.pdb
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\cuenta\cuenta\obj\Debug\cuenta.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\cuenta\cuenta\obj\Debug\cuenta.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\cuenta\cuenta\obj\Debug\cuenta.exe
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\cuenta\cuenta\obj\Debug\cuenta.pdb

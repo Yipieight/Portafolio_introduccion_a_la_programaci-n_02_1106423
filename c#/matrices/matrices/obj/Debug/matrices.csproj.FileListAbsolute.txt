@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\matrices\matrices\bin\Debug\matrices.exe.config
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\matrices\matrices\bin\Debug\matrices.exe
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\matrices\matrices\bin\Debug\matrices.pdb
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\matrices\matrices\obj\Debug\matrices.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\matrices\matrices\obj\Debug\matrices.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\matrices\matrices\obj\Debug\matrices.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\matrices\matrices\obj\Debug\matrices.exe
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\matrices\matrices\obj\Debug\matrices.pdb
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\matrices\matrices\bin\Debug\matrices.exe.config
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\matrices\matrices\bin\Debug\matrices.exe
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\matrices\matrices\bin\Debug\matrices.pdb
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\matrices\matrices\obj\Debug\matrices.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\matrices\matrices\obj\Debug\matrices.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\matrices\matrices\obj\Debug\matrices.exe
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\matrices\matrices\obj\Debug\matrices.pdb

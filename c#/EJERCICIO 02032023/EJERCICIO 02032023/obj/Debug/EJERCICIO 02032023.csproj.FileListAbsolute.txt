@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 02032023\EJERCICIO 02032023\bin\Debug\EJERCICIO 02032023.exe.config
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 02032023\EJERCICIO 02032023\bin\Debug\EJERCICIO 02032023.exe
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 02032023\EJERCICIO 02032023\bin\Debug\EJERCICIO 02032023.pdb
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 02032023\EJERCICIO 02032023\obj\Debug\EJERCICIO 02032023.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 02032023\EJERCICIO 02032023\obj\Debug\EJERCICIO 02032023.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 02032023\EJERCICIO 02032023\obj\Debug\EJERCICIO 02032023.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 02032023\EJERCICIO 02032023\obj\Debug\EJERCICIO 02032023.exe
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 02032023\EJERCICIO 02032023\obj\Debug\EJERCICIO 02032023.pdb

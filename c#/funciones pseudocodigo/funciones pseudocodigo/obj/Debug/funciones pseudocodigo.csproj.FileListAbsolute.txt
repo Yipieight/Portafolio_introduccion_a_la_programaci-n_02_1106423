@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\funciones pseudocodigo\funciones pseudocodigo\bin\Debug\funciones pseudocodigo.exe.config
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\funciones pseudocodigo\funciones pseudocodigo\bin\Debug\funciones pseudocodigo.exe
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\funciones pseudocodigo\funciones pseudocodigo\bin\Debug\funciones pseudocodigo.pdb
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\funciones pseudocodigo\funciones pseudocodigo\obj\Debug\funciones pseudocodigo.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\funciones pseudocodigo\funciones pseudocodigo\obj\Debug\funciones pseudocodigo.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\funciones pseudocodigo\funciones pseudocodigo\obj\Debug\funciones pseudocodigo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\funciones pseudocodigo\funciones pseudocodigo\obj\Debug\funciones pseudocodigo.exe
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\funciones pseudocodigo\funciones pseudocodigo\obj\Debug\funciones pseudocodigo.pdb

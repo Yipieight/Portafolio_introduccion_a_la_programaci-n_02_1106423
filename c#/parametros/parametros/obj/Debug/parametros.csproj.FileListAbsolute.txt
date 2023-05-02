@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\parametros\parametros\bin\Debug\parametros.exe.config
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\parametros\parametros\bin\Debug\parametros.exe
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\parametros\parametros\bin\Debug\parametros.pdb
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\parametros\parametros\obj\Debug\parametros.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\parametros\parametros\obj\Debug\parametros.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\parametros\parametros\obj\Debug\parametros.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\parametros\parametros\obj\Debug\parametros.exe
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\parametros\parametros\obj\Debug\parametros.pdb
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\parametros\parametros\bin\Debug\parametros.exe.config
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\parametros\parametros\bin\Debug\parametros.exe
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\parametros\parametros\bin\Debug\parametros.pdb
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\parametros\parametros\obj\Debug\parametros.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\parametros\parametros\obj\Debug\parametros.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\parametros\parametros\obj\Debug\parametros.exe
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\parametros\parametros\obj\Debug\parametros.pdb

@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\Tarea_02032023_Jose\Tarea_02032023_Jose\bin\Debug\Tarea_02032023_Jose.exe.config
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\Tarea_02032023_Jose\Tarea_02032023_Jose\bin\Debug\Tarea_02032023_Jose.exe
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\Tarea_02032023_Jose\Tarea_02032023_Jose\bin\Debug\Tarea_02032023_Jose.pdb
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\Tarea_02032023_Jose\Tarea_02032023_Jose\obj\Debug\Tarea_02032023_Jose.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\Tarea_02032023_Jose\Tarea_02032023_Jose\obj\Debug\Tarea_02032023_Jose.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\Tarea_02032023_Jose\Tarea_02032023_Jose\obj\Debug\Tarea_02032023_Jose.exe
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\Tarea_02032023_Jose\Tarea_02032023_Jose\obj\Debug\Tarea_02032023_Jose.pdb

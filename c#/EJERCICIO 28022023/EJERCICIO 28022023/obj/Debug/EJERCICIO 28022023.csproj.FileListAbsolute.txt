@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 28022023\EJERCICIO 28022023\bin\Debug\EJERCICIO 28022023.exe.config
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 28022023\EJERCICIO 28022023\bin\Debug\EJERCICIO 28022023.exe
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 28022023\EJERCICIO 28022023\bin\Debug\EJERCICIO 28022023.pdb
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 28022023\EJERCICIO 28022023\obj\Debug\EJERCICIO 28022023.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 28022023\EJERCICIO 28022023\obj\Debug\EJERCICIO 28022023.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 28022023\EJERCICIO 28022023\obj\Debug\EJERCICIO 28022023.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 28022023\EJERCICIO 28022023\obj\Debug\EJERCICIO 28022023.exe
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 28022023\EJERCICIO 28022023\obj\Debug\EJERCICIO 28022023.pdb
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 28022023\EJERCICIO 28022023\bin\Debug\EJERCICIO 28022023.exe.config
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 28022023\EJERCICIO 28022023\bin\Debug\EJERCICIO 28022023.exe
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 28022023\EJERCICIO 28022023\bin\Debug\EJERCICIO 28022023.pdb
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 28022023\EJERCICIO 28022023\obj\Debug\EJERCICIO 28022023.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 28022023\EJERCICIO 28022023\obj\Debug\EJERCICIO 28022023.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 28022023\EJERCICIO 28022023\obj\Debug\EJERCICIO 28022023.exe
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\EJERCICIO 28022023\EJERCICIO 28022023\obj\Debug\EJERCICIO 28022023.pdb

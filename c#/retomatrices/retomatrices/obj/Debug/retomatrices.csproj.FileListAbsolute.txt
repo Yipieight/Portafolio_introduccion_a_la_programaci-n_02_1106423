@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\retomatrices\retomatrices\bin\Debug\retomatrices.exe.config
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\retomatrices\retomatrices\bin\Debug\retomatrices.exe
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\retomatrices\retomatrices\bin\Debug\retomatrices.pdb
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\retomatrices\retomatrices\obj\Debug\retomatrices.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\retomatrices\retomatrices\obj\Debug\retomatrices.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\retomatrices\retomatrices\obj\Debug\retomatrices.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\retomatrices\retomatrices\obj\Debug\retomatrices.exe
+C:\Users\DELL\Documents\GitHub\Landivar\Landivar\clases\Introduccion a programacio\c#\retomatrices\retomatrices\obj\Debug\retomatrices.pdb
